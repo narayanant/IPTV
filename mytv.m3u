@@ -14,6 +14,27 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 #EXTINF:-1 tvg-id="SunLifeTV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Tamil;Entertainment",Sun Life
 http://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/1100.m3u8
 
+#EXTINF:-1,IN | Sport: Star Sports 1 Eng HD
+http://new-pro.tv:8080/Fernando/123321/72041
+#EXTINF:-1,IN | Sport: Star Sports 2 Eng HD
+http://new-pro.tv:8080/Fernando/123321/72042
+#EXTINF:-1,IN | Sport: Star Sports 3 Eng HD
+http://new-pro.tv:8080/Fernando/123321/72043
+
+#EXTINF:-1,IN: Star Vijay HD
+http://new-pro.tv:8080/Fernando/123321/72048
+#EXTINF:-1,IN: Star Vijay Super
+http://new-pro.tv:8080/Fernando/123321/72056
+
+#EXTINF:-1,In: Sun TV
+http://new-pro.tv:8080/Fernando/123321/72106
+#EXTINF:-1,IN: SUN Music HD
+http://new-pro.tv:8080/Fernando/123321/84215
+#EXTINF:-1,IN | Tamil: KTV HD
+http://new-pro.tv:8080/Fernando/123321/71135
+#EXTINF:-1,IN: Zee Tamil HD
+http://new-pro.tv:8080/Fernando/123321/72059
+
 #EXTINF:-1 tvg-id="MKSix.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/FAytBoW.png" group-title="Tamil;Music",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-id="MKTunes.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/m8DPQd6.png" group-title="Tamil;Music",MK Tunes
