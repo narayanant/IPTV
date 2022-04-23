@@ -16,8 +16,8 @@ http://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/1100.m3u8
 
 #EXTINF:-1,IN | Sport: WILLOW HD
 http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:-1,IN | Sport: Star Sports 2 Eng HD
-http://new-pro.tv:8080/Fernando/123321/72042
+#EXTINF:-1,IN | Sport: TSports HD
+http://208.86.19.13:81/905.stream/index.m3u8
 #EXTINF:-1,IN | Sport: Star Sports 3 Eng HD
 http://new-pro.tv:8080/Fernando/123321/72043
 
