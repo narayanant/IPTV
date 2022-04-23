@@ -14,8 +14,8 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 #EXTINF:-1 tvg-id="SunLifeTV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Tamil;Entertainment",Sun Life
 http://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/1100.m3u8
 
-#EXTINF:-1,IN | Sport: Star Sports 1 Eng HD
-http://new-pro.tv:8080/Fernando/123321/72041
+#EXTINF:-1,IN | Sport: WILLOW HD
+http://208.86.19.13:81/731.stream/index.m3u8
 #EXTINF:-1,IN | Sport: Star Sports 2 Eng HD
 http://new-pro.tv:8080/Fernando/123321/72042
 #EXTINF:-1,IN | Sport: Star Sports 3 Eng HD
